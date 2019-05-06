@@ -1,8 +1,9 @@
-# 新之家建设技术委员会
+# 新之家建设委员会
 > 以下按照报名顺序排列
 
 ## 内容
 - [SmithGeorge](https://github.com/SmithGeorge)
+- [Cheereus](https://github.com/Cheereus)
 
 ## 全栈技术统筹
 - [StrangeYear](https://github.com/StrangeYear)
