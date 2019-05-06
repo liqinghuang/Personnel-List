@@ -4,6 +4,9 @@
 ## 内容
 - [SmithGeorge](https://github.com/SmithGeorge)
 
+## 全栈技术统筹
+- [StrangeYear](https://github.com/StrangeYear)
+
 ## 前端
 - [pyyzcwg2833](https://github.com/pyyzcwg2833)
 - [tiancihe](https://github.com/tiancihe)
